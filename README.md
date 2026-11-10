@@ -2,7 +2,7 @@
 
 [AgentCase Lab](https://github.com/TngSHoO/agentcase-lab) — replay and root-cause AI agent failures (Streamlit, SQLite, 30 demo cases). Deploy it on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template?template=https://github.com/onepush-dev/agentcase-lab)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/i90dru)
 
 Independent community packaging of upstream (MIT) at commit `a50f9c9`; not affiliated with the project.
 
